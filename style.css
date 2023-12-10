@@ -1,0 +1,12 @@
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+}
+
+h1 {
+   font-family: Roboto;
+   color: rgb(255, 162, 177);
+   font-weight: bold;
+}
